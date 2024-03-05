@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Manrope", sans-serif;
+  
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+#main {
+  height: 100%;
+  background-image: url(./image/WhatsApp\ Image\ 2024-03-05\ at\ 11.08.28_51eec75c.jpg);
+  object-fit: contain;
+}
+
+
+.experience {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.para{
+    text-align: justify;
+    color: #a4a4a4;
+}
+.company{
+    color: #abdadb;
+}
+.Education{
+    width: 100%;
+    height: auto;
+    background-color: #000000;
+
+}
+.education{
+    color: #1f6b6c;
+}
+.h2-heading{
+    font-weight: 700;
+}
+
